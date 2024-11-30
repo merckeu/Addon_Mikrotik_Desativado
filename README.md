@@ -11,7 +11,7 @@ Se o cliente for reativado o addon remove cliente automaticamente do servidor.
 
 ----------------------------------------------------------------------------------------------
 
-1. Para colocar seu IP, Usuario, Senhaé somente ir na engrenagem no canto direito do addon que vai ter os campos designados para isso.
+1. Para colocar seu IP, Usuario, Senha é somente ir na engrenagem no canto direito do addon que vai ter os campos designados para isso.
 
 2. Para agendar é só clicar no ícone de calendário, que lá vai ter opção de agendar o Intervalo (min):.
 
