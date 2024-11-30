@@ -11,6 +11,8 @@ Se o cliente for reativado o addon remove cliente automaticamente do servidor.
 
 Precisa dar permissao 775 para pasta RouterOS-API 
 
+É necessario criar Profile com nome PG-Corte e Adress List --> pgcorte , e criar uma pool de ips para que o cliente pegue um ip e seja adicionado ao PG-Corte.
+
 ----------------------------------------------------------------------------------------------
 
 1. Para colocar seu IP, Usuario, Senha é somente ir na engrenagem no canto direito do addon que vai ter os campos designados para isso.
