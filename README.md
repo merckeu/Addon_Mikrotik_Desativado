@@ -9,6 +9,8 @@ esse addon é util para aqueles clientes que ainda estao ativos no servidor, mas
 
 Se o cliente for reativado o addon remove cliente automaticamente do servidor.
 
+Precisa dar permissao 775 para pasta RouterOS-API 
+
 ----------------------------------------------------------------------------------------------
 
 1. Para colocar seu IP, Usuario, Senha é somente ir na engrenagem no canto direito do addon que vai ter os campos designados para isso.
