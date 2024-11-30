@@ -7,7 +7,7 @@ sendo necessario criar usuario no servidor mikrotik, para addon ter acesso, o ad
 
 esse addon é util para aqueles clientes que ainda estao ativos no servidor, mas nao usam mais internet, ficando discando no servidor enchendo os logs.
 
-se o cliente for reativado o addon remove cliente automaticamente do servidor.
+Se o cliente for reativado o addon remove cliente automaticamente do servidor.
 ----------------------------------------------------------------------------------------------
 
 1. Para colocar seu IP, Usuario, Senhaé somente ir na engrenagem no canto direito do addon que vai ter os campos designados para isso.
