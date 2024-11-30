@@ -25,7 +25,7 @@ Precisa dar permissao 775 para pasta RouterOS-API
 
 5. Adicione estas linha no arquivo:
 
-        #Addon Recibo Whatsapp
+        # Addon_Mikrotik_Desativado
         /opt/mk-auth/dados/Mikrotik_Desativado/ rwk,
         /opt/mk-auth/dados/Mikrotik_Desativado/** rwk,
 
